@@ -44,8 +44,7 @@
 
 ## 🌐 Contato  
 
-📫 **Email:** seuemail@exemplo.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](#)  
-📂 **Portfólio:** [seuportfólio.com](#)  
+📫 **Email:** hdevjr@gmail.com
+
 
 ---
