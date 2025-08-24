@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
 🚀 Focado em **Python | Django | Django REST Framework | Frontend com HTML, CSS, Bootstrap**  
-📚 Estudando atualmente: **Engenharia de Software**  
+📚 Sou Formado em Análise e Desenvolvimento de Sistemas  
 
 ---
 
