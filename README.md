@@ -23,14 +23,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## ​ GitHub Stats  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HDevJr&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDevJr&layout=compact&theme=tokyonight)  
+<img src="https://github-readme-stats.vercel.app/api?username=HDevJr&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDevJr&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="400" />
 
 </div>
+
 
 ---
 
@@ -44,7 +46,9 @@
 
 ## 🌐 Contato  
 
-📫 **Email:** hdevjr@gmail.com
+📫 **Email:** hdevjr@gmail.com <br>
+**Linkedin:** https://www.linkedin.com/in/her%C3%A1clito-pantoja-jr-7235a4209/
+
 
 
 ---
