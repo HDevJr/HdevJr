@@ -44,7 +44,7 @@
 
 ## 🌐 Contato  
 
-📫 **Email:** hdevjr@gmail.com <br>
+**Email:** hdevjr@gmail.com <br>
 **Linkedin:** https://www.linkedin.com/in/her%C3%A1clito-pantoja-jr-7235a4209/
 
 
