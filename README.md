@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Francisco Junior  
+# 👋 Olá, eu sou o F Heráclito Junior  
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
 🚀 Focado em **Python | Django | Django REST Framework | Frontend com HTML, CSS, Bootstrap**  
@@ -10,14 +10,14 @@
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)  
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)  ![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+ 
+  
+  
+ 
 
 </div>
 
