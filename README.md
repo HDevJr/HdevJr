@@ -39,7 +39,7 @@
 ## 📌 Projetos em Destaque  
 
 - 🔹 [**Distri-Farma**](https://github.com/HDevJr/Distri-Farma) → Sistema de controle de estoque e vendas com Django REST Framework  
-- 🔹 [**Automação Excel + API**](#) → Script em Python para consultas automáticas de CNPJ e atualização de planilhas  
+- 🔹 [**Automação Excel + API**](https://github.com/HDevJr/Consulta-CNPJ) → Script em Python para consultas automáticas de CNPJ e atualização de planilhas  
 - 🔹 [**Gerador de Assinaturas**](#) → Automação com PIL para criação de assinaturas de e-mail personalizadas  
 
 ---
