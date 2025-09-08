@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o F Heráclito Junior  
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
-🚀 Focado em **Python | Django | Django REST Framework | Frontend com HTML, CSS, Bootstrap**  
+🚀 Focado em **Python | Django | Django REST Framework | MySQL | Frontend com HTML, CSS, Bootstrap**  
 📚 Sou Formado em Análise e Desenvolvimento de Sistemas  
 
 ---
