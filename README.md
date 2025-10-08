@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o F Heráclito Junior  
 
 💻 Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.  
-🚀 Focado em **Python | Django | Django REST Framework | MySQL | Frontend com HTML, CSS, Bootstrap**  
+🚀 Focado em **Python | MySQL | Django | Django REST Framework | Frontend com HTML, CSS, Bootstrap**  
 📚 Sou Formado em Análise e Desenvolvimento de Sistemas  
 
 ---
@@ -36,10 +36,9 @@
 
 ## 📌 Projetos em Destaque  
 
-- 🔹 [**Distri-Farma**](https://github.com/HDevJr/Distri-Farma) → Sistema de controle de estoque e vendas com Django REST Framework  
-- 🔹 [**Automação Excel + API**](https://github.com/HDevJr/Consulta-CNPJ) → Script em Python para consultas automáticas de CNPJ e atualização de planilhas  
-- 🔹 [**Gerador de Assinaturas**](https://github.com/HDevJr/gerador-assinaturas-email) → Automação com PIL para criação de assinaturas de e-mail personalizadas
-- 🔹 [**Sistema de Reservas de Hotel**](https://github.com/HDevJr/Hotel-TOKA-DAS-SEREIAS) →
+- 🔹 [**Distri-Farma**](https://github.com/HDevJr/Distri-Farma) → Sistema de controle de estoque e vendas com Django REST Framework.
+- 🔹 [**Automação Excel + API**](https://github.com/HDevJr/Consulta-CNPJ) → Script em Python para consultas automáticas de CNPJ e atualização de planilhas.
+- 🔹 [**Gerador de Assinaturas**](https://github.com/HDevJr/gerador-assinaturas-email) → Automação com PIL para criação de assinaturas de e-mail personalizadas.
 
 ---
 
