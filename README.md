@@ -23,7 +23,13 @@
 
 ---
 
+## ​ GitHub Stats  
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDevJr&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="400" />
+
+</div>
 
 
 ---
