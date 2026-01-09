@@ -23,18 +23,6 @@
 
 ---
 
-## ​ GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDevJr&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400&v=2" width="400" />
-
-
-</div>
-
-
----
-
 ## 📌 Projetos em Destaque  
 
 - 🔹 [**Distri-Farma**](https://github.com/HDevJr/Distri-Farma) → Sistema de controle de estoque e vendas com Django REST Framework.
