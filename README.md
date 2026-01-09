@@ -2,8 +2,9 @@
 
 💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de novos desafios.  
 🚀 Focado em **Python | MySQL | Django | Django REST Framework | Frontend com HTML, CSS, Bootstrap**  
-📚 Formado em Análise e Desenvolvimento de Sistemas - Unifacvest.
-📚 Graduando de Engenharia de Software - Universide de Rio Verde - GO.
+📚 Formado em Análise e Desenvolvimento de Sistemas - Unifacvest. <br>
+📚 Graduando no Curso de Engenharia de Software - Universidade de Rio Verde - GO.
+
 
 ---
 
